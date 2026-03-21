@@ -5,6 +5,7 @@ This project focuses on analyzing Air Quality Index (AQI) data by building a com
 
 The workflow ensures data accuracy by maintaining both raw and cleaned datasets, enabling reliable analysis and comparison.
 
+
 🎯 Objectives
 
 Store and manage raw AQI data securely
@@ -17,13 +18,14 @@ Generate insights using Python visualizations
 
 Build interactive dashboards using cleaned data in Excel & Power BI
 
-🛠️ Tools & Technologies Used
 
-MySQL (SQL) – Data storage, querying, and analytics
+| Tool / Technology         | Purpose                                        |
+| ------------------------- | ---------------------------------------------- |
+| SQL (MySQL)               | Data storage, querying, and advanced analytics |
+| Python (Jupyter Notebook) | Data extraction, cleaning, and visualization   |
+| Excel                     | Data analysis and dashboard creation           |
+| Power BI                  | Interactive dashboards and data visualization  |
 
-Python (Jupyter Notebook) – Data extraction, cleaning, and visualization
-
-Excel – Dashboard creation using cleaned data
 
 🔄 Project Workflow
 
@@ -41,6 +43,7 @@ Visualization: Created charts using Python.
 
 Dashboard: Built interactive dashboards in Excel and Power BI using cleaned data.
 
+
 📊 Key Insights
 
 Identified highly polluted cities
@@ -52,6 +55,5 @@ Highlighted major contributing pollutants
 Improved accuracy through data cleaning
 
 Clear difference between raw and cleaned data analysis
-
 
 Power BI – Interactive and advanced dashboards
